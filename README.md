@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/20972939/182127387-1facc9cf-4095-4057-
 ## Available file formats
 
 - Blender [`.blend`](blend)
+- For 3D print [`.stl`](fro_3d_print)
 
 ## License
 
