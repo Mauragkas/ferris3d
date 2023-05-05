@@ -9,6 +9,10 @@ https://user-images.githubusercontent.com/20972939/182127387-1facc9cf-4095-4057-
 ## Example Render
 <img style="align: center; border-radius: 5%;" width="400" src="preview.jpg" alt="preview render of 3d ferris"/>
 
+## Recomended way to print
+<img style="align: center; border-radius: 5%;" width="400" src="front_ferris.png" alt="front of ferris"/>
+<img style="align: center; border-radius: 5%;" width="400" src="side_ferris.png" alt="side of ferris"/>
+
 ## Available file formats
 
 - Blender [`.blend`](blend)
