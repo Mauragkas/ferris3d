@@ -10,8 +10,14 @@ https://user-images.githubusercontent.com/20972939/182127387-1facc9cf-4095-4057-
 <img style="align: center; border-radius: 5%;" width="400" src="preview.jpg" alt="preview render of 3d ferris"/>
 
 ## Recomended way to print
-<img style="align: center; border-radius: 5%;" width="400" src="front_ferris.png" alt="front of ferris"/>
-<img style="align: center; border-radius: 5%;" width="400" src="side_ferris.png" alt="side of ferris"/>
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 25px;">
+    <img style="border-radius: 5%;" width="400" src="front_ferris.png" alt="front of ferris"/>
+  </div>
+  <div>
+    <img style="border-radius: 5%;" width="400" src="side_ferris.png" alt="side of ferris"/>
+  </div>
+</div>
 
 ## Available file formats
 
